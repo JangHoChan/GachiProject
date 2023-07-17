@@ -9,6 +9,6 @@
 	Ajax: 비동기식 처리 마블마블링
 </h1>
 
-<P> 환경설정: gson을 pom.xml 추가한다.  </P>
+<P> 환경설정: gson을 pom.xml 추가한다. 되게 혼란스럽지만 일단 해보자구 </P>
 </body>
 </html>
