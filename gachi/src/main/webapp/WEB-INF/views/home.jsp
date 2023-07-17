@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Ajax: 비동기식 처리
+	Ajax: 비동기식 처리 마블마블링
 </h1>
 
 <P> 환경설정: gson을 pom.xml 추가한다.  </P>
